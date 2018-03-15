@@ -1,0 +1,326 @@
+nummer 	Staal	Klasse/Orde	Insect	Aantal	Opmerkingen
+1	SJ 7 2/8/2017	Hymenoptera	Ichneumonoidea sp. 1	1	
+2	SJ 7 2/8/2017	Heteroptera	Lygaeidae sp. 1	2	dubbel in ref. collectie
+3	SJ 7 2/8/2017	Heteroptera	Lygaeidae sp. 4	1	"fout, lygaeidae sp. Dubbel in ref. collectie. 1x oranje, 1x zwarte poten"
+4	SJ 7 2/8/2017	Neuroptera	Neuroptera sp. Larvae	1	
+5	SJ 7 2/8/2017	Araneae	Linyphiidae sp. 1	1	
+6	SJ 7 2/8/2017	Heteroptera	Heteroptera nimf 1	5	
+7	SJ 7 2/8/2017	Heteroptera	Heteroptera nimf 4	10	
+8	SJ 7 2/8/2017	Heteroptera	Heteroptera nimf 3	11	nimf 2 en 3 mogelijk zelfde
+9	SJ 7 2/8/2017	Heteroptera	Anthocoridae sp. 1	2	
+10	SJ 7 2/8/2017	Collembola	Entomobrya multifasciata	2	
+11	SJ 7 2/8/2017	Collembola	Sminthurinus aureus (?)	1	
+12	SJ 34 29/8/2017	Psocoptera	Psocoptera sp. 1	1	
+13	SJ 34 29/8/2017	Psocoptera	Psocoptera sp. 2 	1	mogelijk gelijk aan sp. 1? Mss zelfs 3
+14	SJ 34 29/8/2017	Araneae	Argiopidae sp. 1	1	
+15	SJ 34 29/8/2017	Coleoptera	Latridiidae sp. 1	1	
+16	SJ 34 29/8/2017	Psocoptera	Psocoptera sp. 2 (?)	1	
+17	SJ 34 29/8/2017	Acarina	Acari sp. 1	1	
+18	SJ 34 29/8/2017	Heteroptera	Heteroptera nimf 1	3	
+19	SJ 49 20/9/2017	Coleoptera	Hippodamia tredecimpunctata	1	staal 49: nog onbek. Insect bekijken
+20	SJ 49 20/9/2017	Heteroptera	Lygaeidae sp. 3	1	was eerst anthocoridae sp. 2
+21	SJ 49 20/9/2017	Auchenorrhyncha	Cicadellidae sp. 1	1	verandert van cercopidae 1
+22	SJ 49 20/9/2017	Heteroptera	Anthocoridae sp. 1	2	
+23	SJ 49 20/9/2017	Auchenorrhyncha	Cicadellidae nimf 1	1	
+24	SJ 49 20/9/2017	Heteroptera	Miridae sp. 2	1	
+25	SJ 49 20/9/2017	Heteroptera	Lygaeidae sp. 1	1	
+26	SJ 49 20/9/2017	Gastropoda	Zonitidae sp. 1	1	
+27	SJ 49 20/9/2017	Heteroptera	Heteroptera nimf 2	3	
+28	SJ 49 20/9/2017	Collembola	Sminthurus viridis	1	
+29	SJ 49 20/9/2017	Heteroptera	Heteroptera nimf 1	1	
+30	SJ 49 20/9/2017	Heteroptera	Heteroptera nimf 4 	10	
+31	SJ 54 25/9/2017	Lepidoptera	Lepidoptera sp. 	9	Vlinderrups
+32	SJ 54 25/9/2017	Diptera	Diptera sp. Larvae 	1	
+33	SJ 54 25/9/2017	Isopoda	Oniscoidea sp. 1	2	
+34	SJ 54 25/9/2017	Araneae	Salticidae sp. 	1	"Mogelijk Neon reticulatus, maar afmeting te groot"
+35	SJ 54 25/9/2017	Heteroptera	Argiopidae sp. 2	1	
+36	SJ 54 25/9/2017	Heteroptera	Argiopidae sp. 3	1	
+37	SJ 54 25/9/2017	Heteroptera	Miridae sp. 3	2	
+38	SJ 54 25/9/2017	Heteroptera	Miridae sp. 4	1	Mogelijk gelijk aan sp. 2
+39	SJ 54 25/9/2017	Heteroptera	Argiopidae sp. 4 	1	mogelijk clubionidae sp. 3
+40	SJ 54 25/9/2017	Heteroptera	Argiopidae sp. 1	1	Argiopidae 1 en 2 mogelijk zelfde sp
+41	SJ 54 25/9/2017	Heteroptera	Heteroptera nimf 4	4	Mogelijk 2 soorten binnen nimf 4
+42	SJ 53 25/9/2017	Dermaptera	Forficula auricularia	4	
+43	SJ 53 25/9/2017	Auchenorrhyncha	Cercopidae sp. 2	1	
+44	SJ 53 25/9/2017	Auchenorrhyncha	Cicadellidae sp. 1	3	verandert van cercopidae 1
+45	SJ 53 25/9/2017	Coleoptera	Psyllobora vigintiduopunctata	2	
+46	SJ 53 25/9/2017	Diptera	Cloropidae sp. 2	2	
+47	SJ 53 25/9/2017	Diptera	Cloropidae sp. 3	1	misschien Dolichopodidae sp.?
+48	SJ 53 25/9/2017	Isopoda	Oniscoidea sp. 1	1	
+49	SJ 53 25/9/2017	Isopoda	Oniscoidea sp. 2	1	
+50	SJ 53 25/9/2017	Coleoptera	Coccinellidae sp.	1	
+51	SJ 53 25/9/2017	Araneae	Heliophanus sp. 	3	
+52	SJ 53 25/9/2017	Araneae	spin onbek. 1	2	te jong
+53	SJ 53 25/9/2017	Araneae	Argiopidae sp. 1	4	
+54	SJ 53 25/9/2017	Araneae	Linyphiidae sp. 2	6	
+55	SJ 53 25/9/2017	Araneae	Linyphiidae sp. 3	1	"Misschien zelfde als L2, maar dan man"
+56	SJ 53 25/9/2017	Araneae	Argiopidae sp. 5	5	
+57	SJ 53 25/9/2017	Araneae	Argiopidae sp. 6	5	5 exempl in ref. collectie
+58	SJ 53 25/9/2017	Opiliones	Mitopus morio	3	
+59	SJ 53 25/9/2017	Lepidoptera	Lepidoptera sp. 	1	Vlinderrups
+60	SJ 53 25/9/2017	Diptera	Cloropidae sp. 1	1	Mogelijk gele halmvlieg
+61	SJ 53 25/9/2017	Acarina	Acari sp. 1	2	
+62	SJ 53 25/9/2017	Sternorrhyncha	Aphidoidea sp. 1	1	"""mummie"""
+63	SJ 53 25/9/2017	Heteroptera	Heteroptera nimf 4	1	
+64	SJ 53 25/9/2017	Heteroptera	Lygaeidae sp. 2	11	2 parende individuen in staal
+65	SJ 53 25/9/2017	Gastropoda	Zonitidae sp. 1 (?)	11	jonge slakken
+66	SJ 53 25/9/2017	Heteroptera	Anthocoridae sp. 1	1	Donkerder dan in staal 49; mss toch Lygaeidae?
+67	SJ 53 25/9/2017	Heteroptera	Miridae sp. 3	5	Donkerder en subtiele verschillen tgn sp. 2 en 4
+68	SJ 52 25/9/2017	Araneae	Heliophanus sp. 	1	
+69	SJ 52 25/9/2017	Heteroptera	Lygaeidae sp. 2	2	Verandert van Anthocoridae nr Lygaeidae
+70	SJ 52 25/9/2017	Heteroptera	Heteroptera nimf 4	1	
+71	SJ 52 25/9/2017	Araneae	Argiopidae sp. 1	1	
+72	SJ 52 25/9/2017	Lepidoptera	Lepidoptera sp. 	1	Vlinderrups
+73	SJ 51 22/9/2017	Acarina	Acari sp. 2	2	
+74	SJ 51 22/9/2017	Isopoda	Oniscoidea sp. 2	1	
+75	SJ 51 22/9/2017	Araneae	Clubionidae sp. 1	1	mannetje. Mogelijk clubionidae?
+76	SJ 51 22/9/2017	Heteroptera	Miridae sp. 5	1	
+77	SJ 51 22/9/2017	Heteroptera	Rhopalidae sp. 1	1	Rhopalus parumpunctatus
+78	SJ 50 20/9/2017	Lepidoptera	Lepidoptera sp. 	2	Vlinderrups
+79	SJ 50 20/9/2017	Araneae	Thomisidae sp. 1	1	
+80	SJ 50 20/9/2017	Heteroptera	Heteroptera nimf 2/3	2	
+81	SJ 50 20/9/2017	Heteroptera	Anthocoridae sp. 3	2	"lijkt op 1, maar donkerder, lijkt op 2, maar zonder oranje poten"
+82	SJ 50 20/9/2017	Diptera	Cloropidae sp. 4	1	
+83	SJ 50 20/9/2017	Gastropoda	Zonitidae sp. 	1	
+84	SJ 50 20/9/2017	Heteroptera	Heteroptera nimf 4	4	
+85	SJ 50 20/9/2017	Heteroptera	Miridae sp. 2/4	1	"Tussen 2 en 4, mogelijk alle 3 = soort"
+86	SJ 50 20/9/2017	Heteroptera	Miridae sp. 3	1	
+87	SJ 50 20/9/2017	Auchenorrhyncha	Cercopidae nimf 1	1	
+88	SJ 43 13/9/2017	Coleoptera	Coleoptera larvae 1	1	
+89	SJ 43 13/9/2017	Gastropoda	Zonitidae sp. 	1	
+90	SJ 43 13/9/2017	Hymenoptera	Sphecidae sp. 1	1	?
+91	SJ 43 13/9/2017	Hymenoptera	Chalcidoidea sp. 1	1	
+92	SJ 43 13/9/2017	Auchenorrhyncha	Cicadellidae nimf 2	1	jonger exemplaar dan 1
+93	SJ 43 13/9/2017	Heteroptera	Heteroptera nimf 4	7	
+94	SJ 43 13/9/2017	Heteroptera	Heteroptera nimf 1	1	
+95	SJ 43 13/9/2017	Heteroptera	Miridae sp. 3	1	
+96	SJ 59 4/10/2017	Araneae	Neon reticulatus	1	
+97	SJ 59 4/10/2017	Araneae	Argiopidae sp. 6	1	
+98	SJ 59 4/10/2017	Diptera	Cecidomyiidae sp. 1	1	
+99	SJ 59 4/10/2017	Heteroptera	Miridae sp. 3	1	wel opvallend meer rood
+100	SJ 59 4/10/2017	Heteroptera	Miridae sp. 5	1	
+101	SJ 59 4/10/2017	Heteroptera	Miridae sp. 6	1	
+102	SJ 44 13/9/2017	Heteroptera	Miridae sp. 3	2	
+103	SJ 44 13/9/2017	Lepidoptera	Lepidoptera sp. 	5	Vlinderrups
+104	SJ 44 13/9/2017	Heteroptera	Heteroptera nimf 4	2	
+105	SJ 44 13/9/2017	Araneae	Argiopidae sp. 1	3	
+106	SJ 44 13/9/2017	Araneae	Argiopidae sp. 9	1	stippen op achterwerk kenmerkend? 
+107	SJ 44 13/9/2017	Thysanoptera	Thysanoptera sp. 1	1	
+108	SJ 44 13/9/2017	Heteroptera	Heteroptera nimf 2/3	1	
+109	SJ 45 13/9/2017	Auchenorrhyncha	Cicadella viridis	1	
+110	SJ 45 13/9/2017	Lepidoptera	Lepidoptera sp. 	2	Vlinderrups
+111	SJ 45 13/9/2017	Dermaptera	Forficula auricularia	1	
+112	SJ 45 13/9/2017	Heteroptera	Miridae sp. 3	1	
+113	SJ 45 13/9/2017	Araneae	Clubionidae sp. 1	1	
+114	SJ 45 13/9/2017	Araneae	Argiopidae sp. 6	1	
+115	SJ 45 13/9/2017	Araneae	spin onbek. 2	1	
+116	SJ 45 13/9/2017	Gastropoda	Slak onbek. 	1	
+117	SJ 46 15/9/2017	Coleoptera	Curculionidae sp. 1	1	
+118	SJ 46 15/9/2017	Psocoptera	Psocoptera sp. 2	1	Misschien sp. 3 van maken samen met donker exem. Van 34 
+119	SJ 46 15/9/2017	Araneae	Argiopidae sp. 10	2	
+120	SJ 46 15/9/2017	Heteroptera	Miridae sp. 3	1	
+121	SJ 46 15/9/2017	Heteroptera	Anthocoridae sp. 1	3	mss toch lygaeidae?
+122	SJ 46 15/9/2017	Heteroptera	Lygaeidae sp. 3	1	
+123	SJ 46 15/9/2017	Heteroptera	Heteroptera nimf 4	10	
+124	SJ 46 15/9/2017	Heteroptera	Heteroptera nimf 5	5	
+125	SJ 46 15/9/2017	Auchenorrhyncha	Cicadellidae nimf 2	3	groter exemplaar wel met witte ipv rode ogen
+126	SJ 18 13/8/2017	Araneae	spin onbek. 3	1	
+127	SJ 18 13/8/2017	Sternorrhyncha	Aphidoidea sp. 2	4	3 verschillende levensstadia?
+128	SJ 18 13/8/2017	Diptera	Odiniidae sp. 1	1	?
+129	SJ 20 13/8/2017	Heteroptera	Corizus hyoscyami	1	kaneelglasvleugelwants
+130	SJ 20 13/8/2017	Heteroptera	Lygaeidae sp. 4	1	dikke voorste poten
+131	SJ 20 13/8/2017	Thysanoptera	Thysanoptera sp. 2	2	
+132	SJ 20 13/8/2017	Hymenoptera	Chalcidoidea sp. 2	1	
+133	SJ 20 13/8/2017	Hymenoptera	Chalcidoidea sp. 3	1	
+134	SJ 20 13/8/2017	Hymenoptera	Chalcidoidea sp. 4	1	
+135	SJ 20 13/8/2017	Acarina	Acari sp. 3	2	
+136	SJ 20 13/8/2017	Heteroptera	Heteroptera nimf 1	8	
+137	SJ 20 13/8/2017	Heteroptera	Heteroptera nimf 3	1	
+138	SJ 22 16/8/2017	Araneae	Argiopidae sp. 3	1	
+139	SJ 22 16/8/2017	Heteroptera	Heteroptera nimf 4	2	2 verschillende levensstadia
+140	SJ 22 16/8/2017	Heteroptera	Heteroptera nimf 6	1	"als nimf 1, maar met stippen en antennes van nimf 4"
+141	SJ 22 16/8/2017	Acarina	Acari sp. 4	1	op binnenkant dekschild Chrysomelidae sp. 1
+142	SJ 22 16/8/2017	Coleoptera	Latridiidae sp. 1	1	
+143	SJ 22 16/8/2017	Diptera	Dolichopodidae sp. 1	1	
+144	SJ 60 16/10/2017	Sternorrhyncha	Aphidoidea sp. 3	1	
+145	SJ 60 16/10/2017	Acarina	Acari sp. 5	3	
+146	SJ 60 16/10/2017	Araneae	Argiopidae sp. 10	1	
+147	SJ 60 16/10/2017	Sternorrhyncha	Aphidoidea sp. 4	1	
+148	SJ 28 22/8/2017	Hymenoptera	Chalcidoidea sp. 1	1	"mss andere soort, voorkant abdomen lichter"
+149	SJ 28 22/8/2017	Coleoptera	Coccinellidae sp.	4	
+150	SJ 28 22/8/2017	Coleoptera	Coleoptera larvae 2	1	ws larve lieveheersbeestje
+151	SJ 28 22/8/2017	Heteroptera	Miridae sp. 	6	"Lygus sp. Heel variabel, dus ws enkele Miridae sp. Uit vorige stalen zelfde soort"
+152	SJ 28 22/8/2017	Acarina	Acari sp. 2	1	
+153	SJ 28 22/8/2017	Heteroptera	Heteroptera nimf 7	1	
+154	SJ 28 22/8/2017	Heteroptera	Heteroptera nimf 1	9	
+155	SJ 28 22/8/2017	Heteroptera	Heteroptera nimf 3	2	
+156	SJ 28 22/8/2017	Heteroptera	Heteroptera nimf 4	3	
+157	SJ 28 22/8/2017	Heteroptera	Lygaeidae sp. 1	3	
+158	SJ 28 22/8/2017	Heteroptera	Anthocoridae sp. 3	1	mss gelijk aan anthocoridae 1
+159	SJ 28 22/8/2017	Araneae	Lyniphiidae sp. 1	3	
+160	SJ 28 22/8/2017	Araneae	Clubionidae sp. 2	1	
+161	SJ 28 22/8/2017	Psocoptera	Psocoptera sp. 2	1	
+162	SJ 28 22/8/2017	Auchenorrhyncha	Cicadellidae sp. 1	1	
+163	SJ 3 29/7/2017	Lepidoptera	Lepidoptera sp. 	1	Vlinderrups
+164	SJ 3 29/7/2017	Opiliones	Opilliones sp. 	1	
+165	SJ 3 29/7/2017	Neuroptera	Neuroptera sp. Larvae	1	
+166	SJ 3 29/7/2017	Collembola	Sminthurus viridis	1	
+167	SJ 3 29/7/2017	Collembola	Collembola onbek. 1	4	
+168	SJ 3 29/7/2017	Hymenoptera	Chalcidoidea sp. 5	1	
+169	SJ 3 29/7/2017	Araneae	Lyniphiidae sp. 1	2	
+170	SJ 3 29/7/2017	Araneae	Argiopidae sp. 1	1	
+171	SJ 3 29/7/2017	Araneae	Lyniphiidae sp. 3	1	
+172	SJ 3 29/7/2017	Heteroptera	Miridae sp. 7	1	
+173	SJ 3 29/7/2017	Heteroptera	Lygaeidae sp. 1	3	
+174	SJ 3 29/7/2017	Heteroptera	Anthocoridae sp. 4	2	als sp. 3 maar met gele poten
+175	SJ 3 29/7/2017	Heteroptera	Anthocoridae sp. 1	1	
+176	SJ 3 29/7/2017	Coleoptera	Latridiidae sp. 1	2	ws geen chrysomelidae
+177	SJ 3 29/7/2017	Collembola	Entomobrya multifasciata	1	
+178	SJ 3 29/7/2017	Heteroptera	Heteroptera nimf 1	13	
+179	SJ 3 29/7/2017	Heteroptera	Heteroptera nimf 3	2	
+180	SJ 3 29/7/2017	Heteroptera	Heteroptera nimf 2	1	
+181	SJ 30 25/8/2017	Collembola	Collembola onbek. 1	1	
+182	SJ 30 25/8/2017	Collembola	Entomobrya multifasciata	1	
+183	SJ 30 25/8/2017	Heteroptera	Heteroptera nimf 1	2	
+184	SJ 10 7/8/2017	Heteroptera	Miridae sp. 8	1	
+185	SJ 10 7/8/2017	Collembola	Entomobrya multifasciata	4	
+186	SJ 10 7/8/2017	Coleoptera	Latridiidae sp. 2	1	als sp. 1 maar met zwarte stipjes
+187	SJ 10 7/8/2017	Diptera	Cecidomyiidae sp. 2	1	
+188	SJ 10 7/8/2017	Hymenoptera	Cynipoidea sp. 1	1	
+189	SJ 10 7/8/2017	Heteroptera	Heteroptera nimf 3	1	
+190	SJ 10 7/8/2017	Sternorrhyncha	Aphidoidea sp. 2	129	"verschillende levensstadia, met exempl met vleugels en opgeblazen exempl"
+191	SJ 16 11/8/2017	Opiliones	Mitopus morio	1	
+192	SJ 16 11/8/2017	Diptera	Muscidae sp. 1	1	
+193	SJ 16 11/8/2017	Diptera	Scatophagidae sp. 1	1	
+194	SJ 16 11/8/2017	Coleoptera	Latridiidae sp. 1	6	
+195	SJ 16 11/8/2017	Acarina	Acari sp. 6	1	
+196	SJ 16 11/8/2017	Heteroptera	Anthocoridae sp. 1	2	
+197	SJ 16 11/8/2017	Heteroptera	Anthocoridae sp. 4	5	
+198	SJ 16 11/8/2017	Heteroptera	Lygaeidae sp. 1	1	
+199	SJ 16 11/8/2017	Psocoptera	Psocoptera sp. 2	1	
+200	SJ 16 11/8/2017	Thysanoptera	Thysanoptera sp. 2	1	
+201	SJ 16 11/8/2017	Diptera	Cecidomyiidae sp. 1	1	
+202	SJ 16 11/8/2017	Hymenoptera	Proctotrupoidea sp.	1	
+203	SJ 16 11/8/2017	Araneae	Argiopidae sp. 2	1	
+204	SJ 16 11/8/2017	Araneae	Clubionidae sp. 3	2	
+205	SJ 16 11/8/2017	Heteroptera	Heteroptera nimf 4	46	
+206	SJ 16 11/8/2017	Heteroptera	Heteroptera nimf 3	1	
+207	SJ 16 11/8/2017	Heteroptera	Heteroptera nimf 1	4	
+208	SJ 16 11/8/2017	Heteroptera	Heteroptera nimf 6	5	
+209	SJ 16 11/8/2017	Sternorrhyncha	Aphidoidea sp. 2	1	gevleugeld exempl.
+210	SJ 23 16/8/2017	Neuroptera	Neuroptera sp. Larvae	1	
+211	SJ 23 16/8/2017	Hymenoptera	Chalcidoidea sp. 6	2	
+212	SJ 23 16/8/2017	Coleoptera	Latridiidae sp. 1	1	
+213	SJ 23 16/8/2017	Araneae	Clubionidae sp. 3	10	juveniel
+214	SJ 23 16/8/2017	Araneae	Clubionidae sp. 2	1	
+215	SJ 23 16/8/2017	Araneae	Argiopidae sp. 11	1	
+216	SJ 23 16/8/2017	Araneae	Argiopidae sp. 3	2	
+217	SJ 23 16/8/2017	Araneae	Argiopidae sp. 2	3	
+218	SJ 23 16/8/2017	Araneae	Argiopidae sp. 5	1	
+219	SJ 23 16/8/2017	Heteroptera	Miridae sp. 3	2	
+220	SJ 23 16/8/2017	Heteroptera	Heteroptera nimf 4	21	
+221	SJ 8 2/8/2017	Lepidoptera	Lepidoptera sp. 	2	Vlinderrups
+222	SJ 8 2/8/2017	Heteroptera	Miridae sp. 8	1	
+223	SJ 8 2/8/2017	Heteroptera	Lygaeidae sp. 1	18	
+224	SJ 8 2/8/2017	Hymenoptera	Formicidae sp. 1	1	Ws tetramorium sp. 
+225	SJ 8 2/8/2017	Heteroptera	Anthocoridae sp. 1	1	
+226	SJ 8 2/8/2017	Heteroptera	Anthocoridae sp. 3	2	
+227	SJ 8 2/8/2017	Sternorrhyncha	Aphidoidea sp. 2	109	
+228	SJ 8 2/8/2017	Heteroptera	Heteroptera nimf 3	8	
+229	SJ 8 2/8/2017	Heteroptera	Heteroptera nimf 4	12	
+230	SJ 8 2/8/2017	Heteroptera	Heteroptera nimf 1	37	
+231	SJ 8 2/8/2017	Heteroptera	Heteroptera nimf 8	1	
+232	SJ 8 2/8/2017	Acarina	Acari sp. 2	1	
+233	SJ 8 2/8/2017	Acarina	Acari sp. 3	2	
+234	SJ 8 2/8/2017	Acarina	Acari sp. 7	1	"geen in referentiestaal wegens kwijt. Ong even groot als 2, wit, met 2 zw stip"
+235	SJ 8 2/8/2017	Coleoptera	Coccinellidae sp.	1	
+236	SJ 1 28/7/2017	Lepidoptera	Tyria jacobaeae	1	Vlinderrups
+237	SJ 1 28/7/2017	Araneae	Clubionidae sp. 3	2	
+238	SJ 1 28/7/2017	Araneae	Thomisidae sp. 1	1	
+239	SJ 1 28/7/2017	Araneae	Lyniphiidae sp. 4	3	
+240	SJ 1 28/7/2017	Heteroptera	Lygaeidae sp. 1	7	
+241	SJ 1 28/7/2017	Heteroptera	Anthocoridae sp. 1	1	
+242	SJ 1 28/7/2017	Neuroptera	Neuroptera sp. Larvae	1	
+243	SJ 1 28/7/2017	Heteroptera	Heteroptera nimf 3	3	
+244	SJ 1 28/7/2017	Heteroptera	Heteroptera nimf 4	6	
+245	SJ 1 28/7/2017	Heteroptera	Heteroptera nimf 1	41	
+246	SJ 25 18/8/2017	Coleoptera	Coccinella septempunctata	1	
+247	SJ 25 18/8/2017	Coleoptera	Curculionidae sp. 1	1	
+248	SJ 25 18/8/2017	Neuroptera	Neuroptera sp. Larvae	1	
+249	SJ 25 18/8/2017	Lepidoptera	Lepidoptera sp. 	2	Vlinderrups
+250	SJ 25 18/8/2017	Diptera	Scatopsidae sp. 1	1	
+251	SJ 25 18/8/2017	Diptera	Mycetophilidae sp. 1	1	
+252	SJ 25 18/8/2017	Araneae	Argiopidae sp. 5	1	
+253	SJ 25 18/8/2017	Araneae	Argiopidae sp. 6	1	
+254	SJ 25 18/8/2017	Araneae	Clubionidae sp. 1	4	
+255	SJ 25 18/8/2017	Araneae	Argiopidae sp. 2	2	"twijfel, mss thomisidae"
+256	SJ 25 18/8/2017	Araneae	Argiopidae sp. 3	1	groter exempl. 
+257	SJ 25 18/8/2017	Auchenorrhyncha	Cicadellidae nimf 2	2	
+258	SJ 25 18/8/2017	Heteroptera	Lygaeidae sp. 1	8	
+259	SJ 25 18/8/2017	Heteroptera	Anthocoridae sp. 1	1	
+260	SJ 25 18/8/2017	Heteroptera	Anthocoridae sp. 2	2	
+261	SJ 25 18/8/2017	Heteroptera	Miridae sp. 5	1	
+262	SJ 25 18/8/2017	Araneae	Clubionidae sp. 3	1	juveniel
+263	SJ 25 18/8/2017	Heteroptera	Heteroptera nimf 3	3	
+264	SJ 25 18/8/2017	Heteroptera	Heteroptera nimf 4	12	
+265	SJ 25 18/8/2017	Heteroptera	Heteroptera nimf 6	1	
+266	SJ 25 18/8/2017	Heteroptera	Heteroptera nimf 1	20	
+267	SJ 25 18/8/2017	Sternorrhyncha	Aphidoidea sp. 2	137	
+268	SJ 25 18/8/2017	Acarina	Acari sp. 2	1	
+269	SJ 25 18/8/2017	Coleoptera	Coleoptera larvae 3	1	
+270	SJ 25 18/8/2017	Hymenoptera	Formicidae sp. 2	1	Lasius sp.
+271	SJ 31 25/8/2017	Isopoda	Oniscoidea sp. 2	4	1 juveniel en medium sized exempl.
+272	SJ 31 25/8/2017	Coleoptera	Latridiidae sp. 1	2	
+273	SJ 31 25/8/2017	Coleoptera	Coleoptera larvae sp. 2	2	ws larve lieveheersbeestje
+274	SJ 31 25/8/2017	Psocoptera	Psocoptera sp. 2	5	
+275	SJ 31 25/8/2017	Collembola	Entomobrya corticalis	1	
+276	SJ 31 25/8/2017	Araneae	Argiopidae sp. 6	1	
+277	SJ 31 25/8/2017	Auchenorrhyncha	Cicadellidae nimf 2	2	
+278	SJ 31 25/8/2017	Araneae	Argiopidae sp. 2	1	
+279	SJ 31 25/8/2017	Heteroptera	Heteroptera nimf 3	1	
+280	SJ 31 25/8/2017	Heteroptera	Heteroptera nimf 4	5	
+281	SJ 31 25/8/2017	Sternorrhyncha	Aphidoidea sp. 2	1	verpletterd exempl
+282	SJ 31 25/8/2017	Heteroptera	Anthocoridae sp. 1	4	
+283	SJ 31 25/8/2017	Heteroptera	Notostira elongata?	1	Bruine graswants
+284	SJ 33 29/8/2017	Hymenoptera	Formicidae sp. 2	1	Lasius sp.
+285	SJ 33 29/8/2017	Acarina	Acari sp. 2	1	
+286	SJ 33 29/8/2017	Auchenorrhyncha	Cicadellidae nimf 3	1	
+287	SJ 33 29/8/2017	Heteroptera	Heteroptera nimf 3	3	
+288	SJ 33 29/8/2017	Heteroptera	Heteroptera nimf 6	1	
+289	SJ 33 29/8/2017	Heteroptera	Heteroptera nimf 4	5	
+290	SJ 33 29/8/2017	Heteroptera	Heteroptera nimf 1	8	
+291	SJ 33 29/8/2017	Heteroptera	Anthocoridae sp. 3	1	
+292	SJ 33 29/8/2017	Heteroptera	Lygaeidae sp. 1	2	
+293	SJ 33 29/8/2017	Heteroptera	Miridae sp. 	34	
+294	SJ 14 9/8/2017	Neuroptera	Neuroptera sp. Larvae	1	
+295	SJ 14 9/8/2017	Araneae	Argiopidae sp. 2	3	
+296	SJ 14 9/8/2017	Araneae	Lyniphiidae sp. 1	1	juveniel
+297	SJ 14 9/8/2017	Araneae	Clubionidae sp. 3	1	
+298	SJ 14 9/8/2017	Acarina	Acari sp. 2	3	
+299	SJ 14 9/8/2017	Acarina	Acari sp. 8	1	
+300	SJ 14 9/8/2017	Thysanoptera	Thysanoptera sp. 1	1	
+301	SJ 14 9/8/2017	Psocoptera	Psocoptera sp. 1	1	
+302	SJ 14 9/8/2017	Coleoptera	Latridiidae sp. 1	2	
+303	SJ 14 9/8/2017	Coleoptera	Latridiidae sp. 2	1	
+304	SJ 14 9/8/2017	Heteroptera	Heteroptera nimf 3	4	
+305	SJ 14 9/8/2017	Heteroptera	Heteroptera nimf 4	8	
+306	SJ 14 9/8/2017	Heteroptera	Heteroptera nimf 1	51	
+307	SJ 14 9/8/2017	Heteroptera	Heteroptera nimf 6	1	
+308	SJ 4 29/7/2017	Araneae	Argiopidae sp. 2	4	Ws thomisodae.
+309	SJ 4 29/7/2017	Araneae	Argiopidae sp. 6	2	
+310	SJ 4 29/7/2017	Araneae	Spin onbek. 2	2	heel jong
+311	SJ 4 29/7/2017	Araneae	Argiopidae sp. 10	2	wat lichter
+312	SJ 4 29/7/2017	Araneae	Lyniphiidae sp. 5	1	
+313	SJ 4 29/7/2017	Heteroptera	Lygaeidae sp. 1	13	
+314	SJ 4 29/7/2017	Heteroptera	Lygaeidae sp. 3	24	
+315	SJ 4 29/7/2017	Acarina	Acari sp. 2	1	
+316	SJ 4 29/7/2017	Heteroptera	Anthocoridae sp. 1	3	
+317	SJ 4 29/7/2017	Heteroptera 	Heteroptera nimf 3	4	
+318	SJ 4 29/7/2017	Heteroptera	Heteroptera nimf 1	38	
+319	SJ 4 29/7/2017	Sternorrhyncha	Aphidoidea sp. 2	17	2 grote gevleugelde exempl.
+320	SJ 38 5/9/2017	Isopoda	Oniscoidea sp. 2	3	
+321	SJ 38 5/9/2017	Heteroptera	Miridae sp. 3	3	
+322	SJ 38 5/9/2017	Acarina	Acari sp. 2	1	
+323	SJ 38 5/9/2017	Psocoptera	Psocoptera sp. 2	1	
+324	SJ 38 5/9/2017	Hymenoptera	Chalcidoidea sp. 7	1	
+325	SJ 38 5/9/2017	Araneae	Gnaphosidae sp. 	2	lijkt op clubionidae sp.
