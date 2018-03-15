@@ -42,7 +42,16 @@ dev.off()
 Here you can add some more text if you wish.
 
 ```r
-# Add more code and comments
+(trait.plot <- ggplot()+
+    geom_point(data = dlong, mapping = aes(x = SpeciesName, y = value, colour = Trait), alpha = 0.1) +
+    geom_errorbar(data = dsumm, mapping = aes(x = SpeciesName, ymin = q2.5, ymax = q97.5, group = Trait), width = 0.3) +
+    geom_point(data = dsumm, mapping = aes(x = SpeciesName, y = mean, group = Trait), size = 4, colour = "black") +
+    geom_point(data = dsumm, mapping = aes(x = SpeciesName, y = mean, colour = Trait), size = 3) +
+    facet_wrap(~Trait, scales = "free_y")+
+    theme_classic() +
+    scale_x_discrete(labels = c("Dryas", "Eriophorum", "Oxyria", "Salix")) +
+    ylab("Trait Value") +
+    xlab("Species"))
 ```
 
 At this point it would be a good idea to include an image of what the plot is meant to look like so people can check they've done it right. Replace `IMAGE_NAME.png` with your own image file:
